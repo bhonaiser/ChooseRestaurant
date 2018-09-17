@@ -10,14 +10,13 @@ public class Main {
         System.out.println("O RESTAURANTE MAIS VOTADO NO PRIMEIRO DIA FOI : " + empresa.votarRestaurante());
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println(" ");
-        System.out.println("O RESTAURANTE MAIS VOTADO NO SEGUNDO  DIA FOI : " + empresa.votarRestaurante());
-        System.out.println(" ");
-        System.out.println(" ");
-        System.out.println("O RESTAURANTE MAIS VOTADO NO SEGUNDO  DIA FOI : " + empresa.votarRestaurante());
+         System.out.println("O RESTAURANTE MAIS VOTADO NO SEGUNDO  DIA FOI : " + empresa.votarRestaurante());
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("O RESTAURANTE MAIS VOTADO NO SEGUNDO  DIA FOI : " + empresa.votarRestaurante());
+        System.out.println("O RESTAURANTE MAIS VOTADO NO TERCEIRO  DIA FOI : " + empresa.votarRestaurante());
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("O RESTAURANTE MAIS VOTADO NO QUARTO  DIA FOI : " +  empresa.votarRestaurante());
         System.out.println(" ");
         System.out.println(" ");
         }

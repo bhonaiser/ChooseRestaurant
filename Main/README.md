@@ -10,7 +10,9 @@ Para rodar, basta ir até a pasta source, e rodar o arquivo Main.
 ### Dica de Uso 
 
 Para variar as entradas, vá no arquivo Empresa.class e adicione mais elementos nas listas de restaurantes e funcionários.
+Na classe main, faça mais votações, e veja se o restaurante é escolhido mais de uma vez, dentro de cinco votações (5 dias úteis).
+
 
 ### Possíceis alterações
 
-uma interface com opçoes de adicionar/remover elementos nas listas de funconarios e restaurantes. 
+uma interface com opçoes de adicionar/remover elementos nas listas de funconarios e restaurantes.
