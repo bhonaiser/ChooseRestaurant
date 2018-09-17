@@ -3,10 +3,9 @@ import java.util.ArrayList;
 
 public class Empresa {
 
-    public static List<Restaurante> restaurantes;
-    ;
-    public static List<Funcionario> funcionarios;
-    public static List<Restaurante> votadosNaSemana;
+    private List<Restaurante> restaurantes;
+    private List<Funcionario> funcionarios;
+    private List<Restaurante> votadosNaSemana;
 
     private final int diasUteis = 5;
 
@@ -37,7 +36,7 @@ public class Empresa {
 
 
 
-    public static String votarRestaurante() {
+    public String votarRestaurante() {
 
         Funcionario employee;
         Restaurante  rest2, maisVotado;

@@ -15,7 +15,6 @@ class Funcionario {
         votouHoje = false;
     }
 
-
     public String getName(){
         return nome;
     }
