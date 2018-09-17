@@ -16,7 +16,7 @@ public class Empresa {
         votadosNaSemana = new ArrayList(diasUteis);
 
         restaurantes.add(new Restaurante("daEsquina"));
-        restaurantes.add(new Restaurante("doJoao"));
+        restaurantes.add(new Restaurante("hotDog"));
         restaurantes.add(new Restaurante("aLaMinuta"));
         restaurantes.add(new Restaurante("Sushi"));
         restaurantes.add(new Restaurante("24h"));
@@ -31,7 +31,6 @@ public class Empresa {
         funcionarios.add(new Funcionario("Arthur"));
         funcionarios.add(new Funcionario("Gabriela"));
         funcionarios.add(new Funcionario("Marcela"));
-        funcionarios.add(new Funcionario("Joao Pedro"));
     }
 
 
